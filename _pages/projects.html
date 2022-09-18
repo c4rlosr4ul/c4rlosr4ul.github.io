@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!-- <header>Github Activity</header>
+<img src="https://ghchart.rshah.org/taylorFaucett" alt="2016rshah's Github chart" /> -->
+
+{% for post in site.projects %}
+{% include archive-single.html %}
+{% endfor %}

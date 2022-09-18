@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taylor Faucett"
+title                    : "Carlos Ra&uacutel Blog"
 title_separator          : "-"
-name                     : &name "Taylor Faucett"
+name                     : &name "Carlos Ra&uacutel "
 description              : &description "personal description"
 url                      : https://taylorfaucett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "taylorfaucett/taylorfaucett.github.io"
+repository               : "c4rlosr4ul/c4rlosr4ul.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taylor Faucett"
-  avatar           : "profile.png"
-  bio              : "PhD in Physics, Specializing in Machine Learning and Computer Vision"
-  location         : "Irvine, CA"
+  name             : "Carlos Ra&uacutel"
+  avatar           : "me.png"
+  bio              : "Physics university student, mathematical-computational modeling enthusiast."
+  location         : "Lima, Per&uacute"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jql7H80AAAAJ&hl=en&authuser=1"
-  email            : "tfaucett@uci.edu"
+  googlescholar    : 
+  email            : "carlos.primo@unmsm.edu.pe"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "taylorFaucett"
+  github           : "c4rlosr4ul"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "taylorfaucett"
-  orcid            : "http://orcid.org/0000-0003-3917-975X"
+  linkedin         : "carlos-ra%C3%BAl-p-s-b2b86624b"
+  orcid            : "https://orcid.org/0000-0003-2164-5265"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

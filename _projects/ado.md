@@ -1,7 +1,7 @@
 ---
-title: "Average Decision Ordering"
-excerpt: "A novel metric for measuring the similarity between two binary classifier decision surfaces. This can be used to evaluate how two black box networks make decisions relative to one another and give insights into how training features are being used for classification/regression."
+title: "Python Crash Course"
+excerpt: "Self-taught python course inspired by the books <automate boring stuff with python> by Al Sweigart and <crash course in python> by Eric Matthes with my notes and comments. :D."
 collection: projects
 ---
 
-[See the code]('https://github.com/taylorFaucett/average-decision-ordering')
+[See the code]('https://github.com/c4rlosr4ul/python_crash_course')

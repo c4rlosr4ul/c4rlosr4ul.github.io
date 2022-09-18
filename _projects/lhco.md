@@ -1,7 +1,7 @@
 ---
-title: "LHC Olympics Data"
-excerpt: "An application of computer vision techniques, specifically convolutional neural networks (CNN) and energyflow networks trained on simulated jet detector data with a hidden anomalous signature."
+title: "Coming soon..."
+excerpt: "Paper_1."
 collection: projects
 ---
 
-[See the code](https://github.com/taylorFaucett/lhco-ml)
+[See the code](https://github.com/c4rlosr4ul/python_crash_course)

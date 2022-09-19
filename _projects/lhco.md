@@ -4,4 +4,4 @@ excerpt: "Paper_1."
 collection: projects
 ---
 
-[See the code](https://github.com/c4rlosr4ul/python_crash_course)
+[Click to see the code](https://github.com/c4rlosr4ul/python_crash_course)

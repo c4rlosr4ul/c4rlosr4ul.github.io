@@ -4,4 +4,4 @@ excerpt: "Self-taught python course inspired by the books <automate boring stuff
 collection: projects
 ---
 
-[See the code]('https://github.com/c4rlosr4ul/python_crash_course')
+[Click to see the code](https://github.com/c4rlosr4ul/python_crash_course)

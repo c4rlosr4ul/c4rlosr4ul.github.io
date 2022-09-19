@@ -12,7 +12,7 @@ redirect_from:
 Update coming soon...
 
 ## Education
-2021/07 – Present *Lic. Physics* **UNMSM**
+> 2021/07 – Present | *Lic. Physics* [**UNMSM**](https://unmsm.edu.pe)
 > Lima - Peru
 > 15081
 

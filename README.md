@@ -1,4 +1,4 @@
-##I will continue updated on my blog. :P
+#I will continue updated on my blog. :P
 
 $C_j=O_\pi O$
 > $\frac{\partial (\rho u_{i})}{\partial t} + \frac{\partial[\rho u_{i}u_{j}]}{\partial x_{j}} = -\frac{\partial p}{\partial x_{i}} + \frac{\partial \tau_{ij}}{\partial x_{j}} + \rho f_{i}$

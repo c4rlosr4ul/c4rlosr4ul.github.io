@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am physics university student of the UNMSM, mathematical-computational modeling enthusiast ...
+Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from [UNMSM](https://unmsm.edu.pe). Passionate about getting higher education in the field of mathematical-computational modeling of physical phenomena. :D
 
-Research Interests
+## Research Interests
 
 - Mathematical and computational modeling in hydrology.
+  ### $ \frac{\partial (\rho u_{i})}{\partial t} + \frac{\partial[\rho u_{i}u_{j}]}{\partial x_{j}} = -\frac{\partial p}{\partial x_{i}} + \frac{\partial \tau_{ij}}{\partial x_{j}} + \rho f_{i} $
+  
 - Computer Simulation
+- Machine Learning 
+- Web Programming
 
 <!-- I was a graduate student working with [Daniel Whiteson](https://www.physics.uci.edu/people/daniel-o-whiteson) at the University of California at Irvine from 2015-2021. I am now actively searching for new opportunities in industry -->

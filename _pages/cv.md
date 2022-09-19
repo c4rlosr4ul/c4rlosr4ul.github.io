@@ -9,19 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Update coming soon...
 Education
 ======
-* Ph.D in Physics, University of California at Irvine, 2021
+
+<!-- * Ph.D in Physics, University of California at Irvine, 2021
   * GPA: 3.77
   * Thesis Title: [Decoding Black Box Models to Find New Physics at the LHC](https://escholarship.org/uc/item/63x9r13b)
 * M.S. in Physics, University of Hawaii at Manoa, 2015
   * GPA: 3.76
 * B.S. in Physics, Westminster College (SLC Utah), 2009
-  * GPA: 3.50
+  * GPA: 3.50 -->
 
 Work experience
 ======
-* 2015 - Present: UC Irvine, Graduate Research Assistant
+<!-- * 2015 - Present: UC Irvine, Graduate Research Assistant
   * Designed techniques for simplifying complex "multi-model" ML problems into simpler and morepowerful single-model methods to improve speedy, accuracy and model intelligibility.
   * Advanced model accuracy and performance on active ML problems over "state of the art" techniquesused at the LHC.
   * Invented a methodology for performing feature dimensionality reduction to produce highly efficient,powerful and interpretable training features.
@@ -34,7 +36,7 @@ Work experience
   * Designed and oversaw the deployment of a secure PTP radio network for Air Force installations.
   * Managed network security/stability and worked as the Air Force point-of-contact for systemmanagement and reliability metrics.
   * Obtained a secret security clearance.
-  
+   -->
 Skills
 ======
 
@@ -49,12 +51,12 @@ Languages
 
 | Proficiency | Language |
 |-------|-------|
-|●●●●●  | English (Native) |
-|●●●◌◌  | French |
-|●●◌◌◌  | Spanish |
+|●●●●●●●●●●  | Spanish (Native) |
+|●●●●●◌◌◌◌◌  | Portuguese |
+|●●●●◌◌◌◌◌◌  | English |
 
 Publications
-======
+<!-- ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -63,7 +65,7 @@ Publications
 ======
 * 2016-2018: NRT-DESE: Team Science for Integrative Graduate Training in Data Science andPhysical Science
 * 2020-2021: Chateaubriand Fellowship Program
-  
+   -->
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}

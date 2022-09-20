@@ -17,12 +17,12 @@ Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from 
   
 - Computer Simulation
 
-  ![Graph](images/graph.pdf)
+  ![Graph](graph.pdf)
 
 - Machine Learning 
  
-  ![Nodes](images/nodes.pdf)
-  
+  ![Nodes](nodes.pdf)
+
 - Web Programming
 
 <!-- I was a graduate student working with [Daniel Whiteson](https://www.physics.uci.edu/people/daniel-o-whiteson) at the University of California at Irvine from 2015-2021. I am now actively searching for new opportunities in industry -->

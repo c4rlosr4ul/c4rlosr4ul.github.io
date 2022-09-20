@@ -17,11 +17,11 @@ Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from 
   
 - Computer Simulation
 
-  ![Graph](graph.pdf)
+  ![Graph](../images/graph.pdf)
 
 - Machine Learning 
  
-  ![Nodes](nodes.pdf)
+  ![Nodes](../images/nodes.pdf)
 
 - Web Programming
 

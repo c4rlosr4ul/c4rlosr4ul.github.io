@@ -20,10 +20,20 @@ Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from 
   ![Graph](../images/graph.pdf)
 
 - Machine Learning 
- 
+ <iframe src="https://github.com/c4rlosr4ul/c4rlosr4ul.github.io/blob/master/images/nodes.pdf" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+  xfun::embed_dir('../images/nodes.pdf', text = 'Node')
+
+ xfun::pkg_load2(c("htmltools", "mime"))
+
   ![Nodes](../images/nodes.pdf)
 
 - Web Programming
 
-  xfun::embed_file("../images/nodes.pdf")
+
+```{r echo=FALSE}
+# A node
+  xfun::embed_dir('../images/nodes.pdf', text = 'Node')
+
+```
 <!-- I was a graduate student working with [Daniel Whiteson](https://www.physics.uci.edu/people/daniel-o-whiteson) at the University of California at Irvine from 2015-2021. I am now actively searching for new opportunities in industry -->

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from [UNMSM](https://unmsm.edu.pe). Passionate about getting higher education in the field of mathematical-computational modeling of physical phenomena. :D
+>Hi, I'm Carlos Raúl, an optimistic 19-year-old Physics university student from [UNMSM](https://unmsm.edu.pe). Passionate about getting higher education in the field of mathematical-computational modeling of physical phenomena. :D
 
 ## Research Interests
 

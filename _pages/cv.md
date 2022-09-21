@@ -20,7 +20,7 @@ redirect_from:
 |   Level    |           Skill                  |
 |:----------:|:----------------------------------|
 |●●●●●●●◌◌◌  | Windows                          |
-|●●●●●●◌◌◌◌  | GNU-Linux (Btw I use Arch)       |
+|●●●●●●◌◌◌◌  | GNU-Linux, between I use Arch :P       |
 |●●●●●●◌◌◌◌  | Bash Terminal & Powershell       |
 |●●●●●●●●◌◌  | Git & Github                     |
 |●●●●●◌◌◌◌◌  | Vim & NeoVim                     |

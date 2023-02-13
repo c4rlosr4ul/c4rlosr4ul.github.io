@@ -3,6 +3,16 @@
 <meta charset="utf-8">
 
 {% include seo.html %}
+<script>
+  // obtener todos los elementos de enlace en la página
+  var links = document.getElementsByTagName('a');
+  // iterar sobre cada enlace
+  for (var i = 0; i < links.length; i++) {
+    // establecer el valor del atributo 'target' en '_blank'
+    links[i].setAttribute('target', '_blank');
+  }
+</script>
+
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 

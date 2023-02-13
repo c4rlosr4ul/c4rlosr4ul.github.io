@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 ### Education
-> #### 2021/07 – Present | *Lic. Physics* [**UNMSM**](https://unmsm.edu.pe)
-> 
-> #### Lima - Peru
-> 
-> #### 15081
+
+> ### 2021/07 – Present | *Lic. Physics* [**UNMSM**](https://unmsm.edu.pe){:target="_blank"}
+
 
 ### Skills
 

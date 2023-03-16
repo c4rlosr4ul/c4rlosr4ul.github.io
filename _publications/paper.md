@@ -2,7 +2,7 @@
 title: "Test publication - Notes of Git"
 collection: publications
 permalink: paper
-excerpt: 'Test publication of my notes of Git... bla bla bla....'
+excerpt: 'Test publication ....'
 date: 2022-09-18
 venue: 'Research Gate'
 paperurl: '10.13140/RG.2.2.18381.72169'
